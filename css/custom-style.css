@@ -1,0 +1,98 @@
+#mystyle-wrapper{
+    position: fixed;
+    top:50%;
+    left:-80px;
+    z-index: 1000;
+    margin-top: -85px;
+}
+#mystyle{
+    position: relative;
+    width: 170px;
+    height: 170px;
+}
+#color-palet{
+    position: absolute;
+    z-index: 10;
+    margin-left: -80px;
+    margin-top: -80px;
+    opacity: 1;
+    cursor: pointer;
+}
+#canvas-setting{
+    width:56px;
+    height: 56px;
+    border-radius: 50%;
+    background: #fff;
+    margin-left: -28px;
+    margin-top: -28px;
+    z-index: 11;
+    text-align: center;
+    line-height: 50px;
+    color:#7f7f7f;
+    font-size: 40px;
+    cursor: pointer;
+}
+#buttons-container{
+    position: relative;
+    width: 56px;
+    height: 56px;
+}
+#canvas-setting .style-icon,#canvas-setting .close-icon{
+    position: absolute;
+    margin-left: -17px;
+    margin-top: -17px;
+    width: 34px;
+    height: 34px;
+}
+#canvas-setting .style-icon{
+    background: url(../img/setting.png) no-repeat;
+}
+#canvas-setting .close-icon{
+    opacity: 1;
+    line-height: 39px;
+
+}
+#canvas-bg{
+    width:140px;
+    height:140px;
+    background: #fff;
+    border-radius: 50%;
+    z-index: 9;
+    margin-left: -80px;
+    margin-top: -80px;
+    opacity: 1;
+    display: none;
+}
+#color-palet,#canvas-bg,#canvas-setting,#canvas-setting .style-icon,#canvas-setting .close-icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.default{
+    background:#D0482B;
+}
+.purple{
+    background:#d02b98;
+}
+.red{
+    background:#D0482B;
+}
+.amber{
+    background:#D0482B;
+}
+.orange{
+    background:#D0482B;
+}
+.green{
+    background:#D0482B;
+}
+.gray{
+    background:#D0482B;
+}
+.pink{
+    background:#D0482B;
+}
+
+.colorpicker_new_color,.colorpicker_current_color,.colorpicker_hex,.colorpicker_field,.colorpicker_submit{
+    display:none;
+}

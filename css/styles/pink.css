@@ -1,0 +1,118 @@
+/*
+ *  Termé -Responsive Personal Portfolio Template Color Stylesheet
+ *  owwwlab.com @2013
+ *  owwwlab@gmail.com
+ */
+
+
+/* General
+ **************************************************/
+ .btn-outline {
+    background-color: #e64f7e;
+}
+.btn-outline:hover {
+    color: #e64f7e;
+}
+.colored{
+	color:#e64f7e;
+}
+a{
+    color:#e64f7e;
+}
+
+/* home 
+ **************************************************/
+
+#caption-carousel .caption h2{
+    color:#e64f7e;
+}
+
+.social-icons li a .top{
+    color: #e64f7e;
+}
+.arrow-down:before{
+    background: #e64f7e;
+}
+
+/* About
+ **************************************************/
+ .bio-circles ul li{
+    color:#e64f7e;
+}
+.bio-circles ul li:hover{
+    color:#e64f7e;
+}
+
+ .services li i{
+    color: #e64f7e;
+}
+
+/* Skills
+ **************************************************/
+.circular-bar  li .details .title span{
+    background: #e64f7e;
+}
+.list-center li i{
+    color: #e64f7e;
+}
+
+.vertical-bar li .bar{
+    background: #e64f7e; 
+    background: -moz-linear-gradient(top,  #e64f7e 1%, #A23456 100%); 
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#e64f7e), color-stop(100%,#A23456)); 
+    background: -webkit-linear-gradient(top,  #e64f7e 1%,#A23456 100%);
+    background: -o-linear-gradient(top,  #e64f7e 1%,#A23456 100%);
+    background: -ms-linear-gradient(top,  #e64f7e 1%,#A23456 100%);
+    background: linear-gradient(to bottom,  #e64f7e 1%,#A23456 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e64f7e', endColorstr='#A23456',GradientType=0 );
+
+}
+
+/* Portfolio
+ **************************************************/
+ #folio .item .details .title{
+    color:#e64f7e;
+}
+.folio-filter li i{
+    color:#e64f7e;
+}
+.folio-filter li.active i{
+    background: #e64f7e;
+}
+#folio .item  i {
+    color: #e64f7e;
+}
+
+#folio-popup button ,#folio .item .overlay{
+    background:#e64f7e;
+}
+
+/* Contact
+ **************************************************/
+ #map-marker i{
+    color:#e64f7e;
+}
+
+.circle-icons li i{
+    color: #e64f7e;
+}
+
+.contact-form input#submit{
+    background:#e64f7e;
+}
+.contact-form input#submit:hover{
+	color: #e64f7e;
+}
+
+/* Loader 
+**************************************************/
+#preloader {
+	background-color:#e64f7e;
+}
+
+
+/* Navigation
+ **************************************************/
+#nav-container {
+	 background:#e64f7e;
+}
