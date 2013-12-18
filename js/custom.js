@@ -89,7 +89,7 @@ $(document).ready(function() {
         /*Page Transitions
         ----------------------------------------------*/
         showDemand: function() {
-            if (this.demandPage.attr('id') == 'portfolio') {
+            if (this.demandPage.attr('id') == 'gallery') {
                 showFolio(pages.demandPage);
             }
              if (this.currentPage.attr('id') == 'home') {
@@ -157,7 +157,7 @@ $(document).ready(function() {
         done: function() {
             showScroll(pages);
             var pageId = pages.demandPage.attr('id');
-            if (pageId == 'skills') {
+            if (pageId == 'music') {
                 showSkills(pages.demandPage);
             } else if (pageId == 'contact') {
                 showContact();
