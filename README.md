@@ -1,6 +1,6 @@
 juke
 ====
 
-allier.github.com
+allier.github.io
 
 Blues-Rock Band personal card site
