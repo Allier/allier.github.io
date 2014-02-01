@@ -204,7 +204,7 @@ $(document).ready(function() {
 
     /*Skill section elements
     ----------------------------------------------*/
-    function showSkills(demandPage) {
+/*    function showSkills(demandPage) {
 
         //Circular Easy pie chart
         demandPage.find('.chart').easyPieChart({
@@ -234,7 +234,7 @@ $(document).ready(function() {
             offset:elemOffset,
             triggerOnce: true
         });    
-    }
+    }*/
 
     /*Portfolio section elements
     ----------------------------------------------*/
@@ -354,7 +354,7 @@ $(document).ready(function() {
     }
 
     //Contact form inputs place holder
-    $(":input[placeholder]").placeholder();
+ /*   $(":input[placeholder]").placeholder();
 
 
     //Ajax contact form 
@@ -440,7 +440,7 @@ $(document).ready(function() {
             }
             return false;
         });
-    }
+    } */
 
     /*Perfect scrollbar activation runs on each page transition
     ----------------------------------------------*/

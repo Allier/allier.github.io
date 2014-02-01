@@ -1,4 +1,4 @@
-jQuery(document).ready(function($) {
+/*jQuery(document).ready(function($) {
     var canvas=$('<div id="mystyle-wrapper"><div id="mystyle"><canvas id="color-palet" width="160" height="160"></canvas><div id="canvas-setting"></div></div><div id="canvas-bg"></div></div>').appendTo('body');
     $('#canvas-setting').html('<div id="buttons-container"><i class="style-icon"></i><div class="close-icon">×</div></div>');
     drawCanvas(); 
@@ -110,7 +110,7 @@ jQuery(document).ready(function($) {
 
 });
 
-
+*/
 
 /*
 
