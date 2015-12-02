@@ -1,6 +1,3 @@
 lets start from scratch
 and put some lines here
-and there
-and somewhere here
-just client-side line
 just server-side line
